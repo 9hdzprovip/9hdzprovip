@@ -6,6 +6,7 @@
   <img
     width="100%"
     src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0D1117,45:1F6FEB,100:8B5CF6&text=LE%20DUC%20CHINH&fontColor=FFFFFF&fontSize=50&fontAlignY=38&desc=Java%20Backend%20Developer%20%7C%20HUST&descAlignY=58&descSize=18&animation=twinkling"
+    alt="Le Duc Chinh"
   />
 </p>
 
@@ -19,9 +20,9 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=9hdzprovip&style=for-the-badge&color=1F6FEB&label=PROFILE+VIEWS" />
-  <img src="https://img.shields.io/badge/Focus-Java%20Backend-0D1117?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/HUST-Computer%20Science-0D1117?style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=9hdzprovip&style=for-the-badge&color=1F6FEB&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Focus-Java%20Backend-0D1117?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java Backend" />
+  <img src="https://img.shields.io/badge/HUST-Computer%20Science-0D1117?style=for-the-badge" alt="HUST" />
 </p>
 
 <br/>
@@ -46,11 +47,11 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=flat-square&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST%20API-1F6FEB?style=flat-square&logo=swagger&logoColor=white" />
-  <img src="https://img.shields.io/badge/JWT-111827?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" alt="Spring Security" />
+  <img src="https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring Data JPA" />
+  <img src="https://img.shields.io/badge/REST%20API-1F6FEB?style=flat-square&logo=swagger&logoColor=white" alt="REST API" />
+  <img src="https://img.shields.io/badge/JWT-111827?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" />
 </p>
 
 <br/>
@@ -66,9 +67,9 @@
 
 <p align="center">
   <img
-    width="96%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=9hdzprovip&theme=tokyo-night&hide_border=true&radius=12&area=true"
-    alt="Activity Graph"
+    width="95%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=9hdzprovip&theme=tokyonight"
+    alt="GitHub Profile Summary"
   />
 </p>
 
@@ -87,7 +88,7 @@
       srcset="https://raw.githubusercontent.com/9hdzprovip/9hdzprovip/output/github-contribution-grid-snake.svg"
     />
     <img
-      alt="GitHub contribution snake"
+      alt="GitHub Contribution Snake"
       src="https://raw.githubusercontent.com/9hdzprovip/9hdzprovip/output/github-contribution-grid-snake.svg"
     />
   </picture>
@@ -97,10 +98,10 @@
 
 <p align="center">
   <a href="https://github.com/9hdzprovip">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://9hdzprovip.bbroot.com">
-    <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
@@ -108,5 +109,6 @@
   <img
     width="100%"
     src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:8B5CF6,55:1F6FEB,100:0D1117"
+    alt="Footer"
   />
 </p>
