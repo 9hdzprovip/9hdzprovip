@@ -56,6 +56,17 @@
 
 <br/>
 
+<h2 align="center">📌 Featured Projects</h2>
+
+<p align="center">
+  <a href="https://github.com/9hdzprovip/CNPM_quanlydancu"><b>Residential Management</b></a> ·
+  <a href="https://github.com/9hdzprovip/OOP-Game_Bros-Crush"><b>Bros||Crush</b></a> ·
+  <a href="https://github.com/9hdzprovip/Employee_management-system-front-end"><b>Employee Management</b></a> ·
+  <a href="https://github.com/9hdzprovip/Portfolio"><b>Portfolio</b></a>
+</p>
+
+<br/>
+
 <h2 align="center">🔥 GitHub Activity</h2>
 
 <p align="center">
