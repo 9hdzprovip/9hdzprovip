@@ -44,7 +44,7 @@ I'm **Le Duc Chinh**, a Computer Science student at **Hanoi University of Scienc
     <td>
       <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
       <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
     </td>
   </tr>
@@ -58,6 +58,7 @@ I'm **Le Duc Chinh**, a Computer Science student at **Hanoi University of Scienc
       <img src="https://img.shields.io/badge/REST%20API-1F6FEB?style=flat-square&logo=swagger&logoColor=white" alt="REST API" />
       <img src="https://img.shields.io/badge/JWT-111827?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" />
       <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white" alt="Maven" />
+      <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white" alt="Gradle" />
     </td>
   </tr>
   <tr>
@@ -65,6 +66,7 @@ I'm **Le Duc Chinh**, a Computer Science student at **Hanoi University of Scienc
     <td>
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+      <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
     </td>
   </tr>
   <tr>
@@ -81,6 +83,7 @@ I'm **Le Duc Chinh**, a Computer Science student at **Hanoi University of Scienc
     <td>
       <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
       <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
+      <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" alt="Swagger" />
       <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA" />
       <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" />
     </td>
@@ -103,8 +106,8 @@ I'm **Le Duc Chinh**, a Computer Science student at **Hanoi University of Scienc
   <a href="https://github.com/9hdzprovip/OOP-Game_Bros-Crush">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=9hdzprovip&repo=OOP-Game_Bros-Crush&theme=tokyonight&hide_border=true&border_radius=10" alt="Bros||Crush" />
   </a>
-  <a href="https://github.com/9hdzprovip/Portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=9hdzprovip&repo=Portfolio&theme=tokyonight&hide_border=true&border_radius=10" alt="Portfolio" />
+  <a href="https://github.com/9hdzprovip/library-management">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=9hdzprovip&repo=library-management&theme=tokyonight&hide_border=true&border_radius=10" alt="Library Management" />
   </a>
 </p>
 
