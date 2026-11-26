@@ -116,8 +116,11 @@ I'm **Le Duc Chinh**, a Computer Science student at **Hanoi University of Scienc
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=9hdzprovip&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=9hdzprovip&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&border_radius=10" alt="Top languages" />
+  <img src="https://raw.githubusercontent.com/9hdzprovip/9hdzprovip/metrics/github-metrics.svg" alt="GitHub metrics" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/9hdzprovip/9hdzprovip/metrics/github-languages.svg" alt="Most used languages" />
 </p>
 
 <p align="center">
